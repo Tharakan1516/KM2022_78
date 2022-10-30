@@ -1,0 +1,149 @@
+[
+  { "Employee": "" },
+
+  {
+    "username": "admin",
+    "password": "123",
+    "name": "sathees",
+    "nic": "159",
+    "post": "leader",
+    "unit": "ITP",
+    "phone": "1234567891",
+    "grade": "first"
+  },
+
+  {
+    "username": "arjun",
+    "password": "123",
+    "name": "Arjun. K",
+    "nic": "961234567V",
+    "post": "Ticket Clerk",
+    "unit": "OPD",
+    "phone": "0771234567",
+    "grade": "Minor staff"
+  },
+
+  {
+    "username": "hansani",
+    "password": "123",
+    "name": "Hansani. K",
+    "nic": "962345671V",
+    "post": "Consultion Doctor",
+    "unit": "OPD",
+    "phone": "0772345671",
+    "grade": "Medical Office Staff"
+  },
+
+  {
+    "username": "vikram",
+    "password": "123",
+    "name": "Vikram. K",
+    "nic": "963456712V",
+    "post": "Dispenser",
+    "unit": "OPD",
+    "phone": "0773456712",
+    "grade": "Minor staff"
+  },
+
+  {
+    "username": "andrea",
+    "password": "123",
+    "name": "Andrea. K",
+    "nic": "964567123V",
+    "post": "Admission Doctor",
+    "unit": "OPD",
+    "phone": "0774567123",
+    "grade": "Medical Office Staff"
+  },
+
+  {
+    "username": "keerthi",
+    "password": "123",
+    "name": "Keerthi. K",
+    "nic": "965671234V",
+    "post": "OPD In Charge",
+    "unit": "OPD",
+    "phone": "0775671234",
+    "grade": "Medical Office Staff"
+  },
+
+  { "Patient": "" },
+
+  {
+    "nic": "961234567V",
+    "name": "John. S",
+    "dob": "1980-08-24",
+    "gender": "male",
+    "address": "Colombo",
+    "phone": "0771234567",
+    "stage": "registered"
+  },
+
+  {
+    "nic": "962345671V",
+    "name": "Ann. S",
+    "dob": "1965-08-05",
+    "gender": "female",
+    "address": "Galle",
+    "phone": "0772345671",
+    "stage": "in_treatment"
+  },
+
+  {
+    "nic": "963456712V",
+    "name": "Bill. S",
+    "dob": "1985-08-24",
+    "gender": "male",
+    "address": "Colombo",
+    "phone": "0771234567",
+    "stage": "in_treatment"
+  },
+
+  {
+    "nic": "964567123V",
+    "name": "Salman. S",
+    "dob": "1995-08-24",
+    "gender": "male",
+    "address": "Malabe",
+    "phone": "0771234567",
+    "stage": "treated"
+  },
+
+  {
+    "nic": "965671234V",
+    "name": "Krithik. S",
+    "dob": "1992-08-24",
+    "gender": "male",
+    "address": "Colombo",
+    "phone": "0771234567",
+    "stage": "clinic referenced"
+  },
+
+  {
+    "nic": "9667812345V",
+    "name": "Nikitha. S",
+    "dob": "1997-08-24",
+    "gender": "female",
+    "address": "Batticaloa",
+    "phone": "0771234567",
+    "stage": "in_treatment"
+  },
+
+  {
+    "nic": "9678123456V",
+    "name": "Nithya. S",
+    "dob": "1998-08-24",
+    "gender": "female",
+    "address": "Colombo",
+    "phone": "0771234567",
+    "stage": "in_treatment"
+  },
+
+  { "Consultation": "" },
+
+  {
+    "date": ""
+  },
+
+  {}
+]
